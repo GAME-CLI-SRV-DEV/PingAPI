@@ -8,6 +8,9 @@ PingAPI gives Bukkit developers more control over how they reply to ping request
 > Since Paper Does No longer Support MOTD Animations.
 > Paper Will Be Superseded by the Fork of Paper called NogyangSpigot.
 > if your paperweight-patcher environment uses Paper, Upgrade to NogyangSpigot Now!
+> Slab a ViaVersion on 1.8.8 PaperMC Servers? is Useless
+> Because GeyserMC No longer Support these!
+> Wait, you are not running a crossplay? how rude. >:(
 
 It has been a few years since I have worked on this project, but I decided to update it for newer versions of CraftBukkit and keep backwards compatibility. I will try to keep it maintained and up to date from now on. The most important change to note is that creating animations is no longer possible for servers running newer versions of CraftBukkit.
 
